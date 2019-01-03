@@ -1,0 +1,9 @@
+Dataset/
+JointMutualInformationFeatureSelection2.py
+JointMutualInformationFeatureSelection3.py
+Prob_Breast_Cancer.txt
+Prob_Diabetes.txt
+Prob_Iris.txt
+Prob_KC_House.txt
+analysis.py
+data.py
